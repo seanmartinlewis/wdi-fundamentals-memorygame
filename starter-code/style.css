@@ -44,14 +44,15 @@ nav {
 
 a {
 	background: #ffbf00;
-color: white;
+    color: white;
+    text-decoration: none;
 	padding: 35px;
 	display: block;
 	float: left;
 }
 
 a:hover {
-  color: #ee5f3c;
+  background-color: #ee5f3c;
 }
 
 .clearfix:after {
